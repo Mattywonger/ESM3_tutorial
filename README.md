@@ -5,6 +5,9 @@ ESM3 is a frontier generative model for biology, able to jointly reason across t
 Read ESM3's original paper here: [ESM3 Biorxiv Paper](https://www.biorxiv.org/content/10.1101/2024.07.01.600583v1)
 Here is ESM'3 original github: [EvolutionaryScale/ESM3](https://github.com/evolutionaryscale/esm)
 
+## Part 0: ESM3 introduction
+
+[Google Colab](https://colab.research.google.com/drive/1M4zEHaSFzwF6TTS6Ra3RWax4qMsegQw5)
 ## Part 1: Tokenization part 1 (Sequence, Function)
 
 ## Part 2: Tokenization part 2 (SASA and Surface)
